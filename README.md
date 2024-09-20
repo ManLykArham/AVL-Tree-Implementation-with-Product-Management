@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview and Learning Outcomes
 
-This project involves creating an **AVL Tree**—a self-balancing binary search tree—to efficiently manage and track a collection of products. By implementing **automatic balancing** using single and double rotations, the tree ensures optimal search and retrieval times. The system features product management capabilities such as **adding products**, **checking for specific products**, **counting the total number of products**, and tracking how many times each product has been added. Additionally, various **tree traversal methods** (in-order, pre-order, and post-order) provide flexible viewing options for the stored products. 🛠️
+This project involves creating an **AVL Tree** a self-balancing binary search tree to efficiently manage and track a collection of products. By implementing **automatic balancing** using single and double rotations, the tree ensures optimal search and retrieval times. The system features product management capabilities such as **adding products**, **checking for specific products**, **counting the total number of products**, and tracking how many times each product has been added. Additionally, various **tree traversal methods** (in-order, pre-order, and post-order) provide flexible viewing options for the stored products. 🛠️
 
 ---
 
