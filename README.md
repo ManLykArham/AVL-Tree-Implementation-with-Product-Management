@@ -33,6 +33,14 @@ This project involves creating an **AVL Tree** a self-balancing binary search tr
 
 ---
 
+## 🎥 Demo
+
+Watch the demo of the AI Image Generator Web App:
+
+[Demo Video](https://youtu.be/kcW3F5YjLi4?si=nGtoFKggnf_437OF)
+
+---
+
 ## 🏆 Achievements
 
 This project deepened my understanding of **advanced data structures**, particularly AVL trees, and gave me hands-on experience with algorithms that maintain tree balance. Implementing **recursion** for tree traversal and rotations challenged me to optimise the structure for efficiency, particularly when managing larger datasets. 💡
