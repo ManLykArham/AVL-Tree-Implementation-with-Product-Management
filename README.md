@@ -35,7 +35,7 @@ This project involves creating an **AVL Tree** a self-balancing binary search tr
 
 ## 🎥 Demo
 
-Watch the demo of the AI Image Generator Web App:
+Watch the demo of the AVL Tree Implementation with Product Management project:
 
 [Demo Video](https://youtu.be/kcW3F5YjLi4?si=nGtoFKggnf_437OF)
 
